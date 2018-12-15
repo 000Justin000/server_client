@@ -1,3 +1,3 @@
 # server_client
 
-Java implementation of server_client program
+Java implementation of multi-threaded server_client program
